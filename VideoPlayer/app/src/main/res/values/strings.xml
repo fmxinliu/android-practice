@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">视频播放器</string>
+    <string name="videolist">视频列表</string>
+    <string name="timetxt">00:00:00</string>
+    <string name="selectvideotxt">点击选择视频文件</string>
+    <string name="backtxt">回退</string>
+    <string name="playtxt">播放</string>
+    <string name="forwardtxt">快进</string>
+    <string name="volumetxt">音量控制</string>
+</resources>

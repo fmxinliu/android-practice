@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/lv_second"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="125dp"
+        android:text="second Activity"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/btn_open_third"
+        android:layout_width="wrap_content"
+        android:layout_height="68dp"
+        android:text="通过隐式意图打开third Activity(单个匹配)"
+        android:textAllCaps="false"
+        android:layout_below="@+id/lv_second"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <Button
+        android:id="@+id/btn_open_browser"
+        android:layout_width="wrap_content"
+        android:layout_height="68dp"
+        android:text="通过隐式意图打开browser Activity(多个匹配)"
+        android:textAllCaps="false"
+        android:layout_below="@+id/btn_open_third"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

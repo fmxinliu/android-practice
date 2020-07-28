@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">凡目主力</string>
+    <string name="init_content1">请问候</string>
+    <string name="ask">问候</string>
+    <string name="ask_obj1">小杨</string>
+    <string name="ask_obj2">小子微</string>
+    <string name="ask_content1">小杨，一起来把王者</string>
+    <string name="ask_content2">小子微，一起来把王者</string>
+</resources>
